@@ -1,5 +1,5 @@
 
-% For analyse of mechanical data from Mach-1
+% For analyzing the mechanical data of Mach-1
 % Stress-relaxation
 % 4 steps
 % Indentation
